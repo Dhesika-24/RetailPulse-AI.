@@ -11,8 +11,6 @@ Unlike traditional retail software that only stores data and generates reports, 
 
 ---
 
----
-
 ## 🧩 System Components
 
 ### 1. 📥 Data Processing Layer
@@ -186,7 +184,6 @@ The prototype version can be developed using free and student-tier resources, ma
 
 ---
 
----
 
 ## ✅ Conclusion
 
