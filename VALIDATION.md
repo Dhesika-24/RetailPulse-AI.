@@ -1,10 +1,10 @@
-# Who Has This Problem?
+## 🎯 Who Has This Problem?
 
 RetailPulse AI is designed for businesses that generate large amounts of sales and inventory data but struggle to convert that data into actionable business decisions.
 
-## Highly Affected
+### 🔴 Highly Affected
 
-### Small and Medium Retail Businesses (SMEs)
+#### 🏪 Small and Medium Retail Businesses (SMEs)
 
 Small and medium retail businesses are the most affected because they often rely on spreadsheets, manual inventory tracking, and experience-based decision making rather than advanced analytics tools.
 
@@ -24,9 +24,9 @@ Examples:
 * Independent supermarkets
 * Kirana stores
 
-## Moderately Affected
+### 🟠 Moderately Affected
 
-### Growing Retail Chains and Multi-Store Businesses
+#### 🏢 Growing Retail Chains and Multi-Store Businesses
 
 These businesses typically have software systems in place but still face challenges related to inventory visibility, demand forecasting, and operational decision-making.
 
@@ -42,7 +42,7 @@ Examples:
 * Multi-location retailers
 * Department stores
 
-## Global Impact
+### 🌍 Global Impact
 
 This problem exists across retail markets worldwide and affects businesses of all sizes.
 
@@ -52,7 +52,7 @@ Key Statistics:
 * Stockouts alone contribute to nearly $1 trillion in lost retail sales every year.
 * Around 69% of customers switch to competitors when products are unavailable.
 
-## Evidence the Pain Is Real
+## 📈 Evidence the Pain Is Real
 
 Retail inventory problems are a major challenge worldwide. Studies estimate that retailers lose approximately **$1.7 trillion annually** due to stockouts, overstocking, and inventory inaccuracies.
 
@@ -62,7 +62,7 @@ In India alone, millions of small retailers and over **12 million kirana stores*
 
 These statistics show that the problem is real, widespread, and financially significant, making it an important opportunity for innovation.
 
-## Real-World Scenario
+## 🏪 Real-World Scenario
 
 Imagine a local electronics retailer with an average monthly revenue of ₹10 lakhs.
 
@@ -81,7 +81,7 @@ This situation is not unique. Similar inventory and decision-making challenges a
 
 RetailPulse AI addresses this problem by continuously analyzing sales and inventory data, identifying the root causes behind business performance changes, and recommending actions before losses become significant.
 
-## Who Pays?
+## 💰 Who Pays?
 
 The primary paying customers for RetailPulse AI are small and medium retail business owners, including grocery stores, electronics shops, pharmacies, clothing retailers, supermarkets, and independent store owners.
 
@@ -91,7 +91,7 @@ For example, a store generating ₹10 lakhs in monthly revenue could lose lakhs 
 
 For many retailers, the cost of not solving the problem is far greater than the cost of the solution.
 
-## Existing Alternatives
+## 🔍 Existing Alternatives
 
 Many retailers currently use a combination of inventory management software, billing systems, spreadsheets, and business dashboards to manage their operations.
 
@@ -111,7 +111,7 @@ As a result, many business owners still rely on experience and intuition when ma
 
 RetailPulse AI goes beyond traditional reporting by identifying problems, analyzing root causes, generating recommendations, and helping businesses take proactive action before losses become significant.
 
-## Market Opportunity
+## 🌍 Market Opportunity
 
 The retail sector represents one of the largest business markets in the world. India alone has more than 12 million kirana stores and millions of other small and medium retailers.
 
@@ -119,7 +119,7 @@ As businesses continue to adopt digital billing and inventory systems, the amoun
 
 RetailPulse AI targets this gap by providing an accessible AI-powered decision support system for businesses that cannot afford dedicated analysts or consultants.
 
-## Conclusion
+## ✅ Conclusion
 
 Retail inventory and business decision-making challenges affect millions of businesses worldwide and result in significant financial losses every year. Existing solutions help businesses collect data, but few help them understand what actions to take.
 
