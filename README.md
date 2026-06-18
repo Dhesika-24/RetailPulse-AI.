@@ -1,7 +1,7 @@
 # RetailPulse-AI.
 
 ## 🚀 Overview
-RetailPulse AI is an autonomous growth agent for small businesses that analyzes sales, inventory, and customer data to detect issues, predict trends, generate marketing campaigns, and recommend actions that improve profitability.
+Millions of retailers generate valuable business data every day but struggle to convert it into meaningful decisions. RetailPulse AI bridges this gap by autonomously analyzing sales, inventory, and customer insights to identify problems, recommend actions, and drive business growth.
 
 ## 🎯 Why We Chose This Problem
 
