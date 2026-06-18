@@ -1,5 +1,6 @@
 # 🚀 RetailPulse AI
 ---
+![RetailPulse AI Logo](./logo1.png)
 
 ### Transforming Retail Data into Intelligent Business Decisions
 
