@@ -1,11 +1,11 @@
 ## 🚀Scoped MVP Plan — RetailPulse AI
 ---
 ## 🎯 Objective
----
+
 Build a minimal working product that helps retailers make fast, data-driven decisions by analyzing sales and inventory data using AI.
 
 The MVP focuses only on core decision-making features that can be demonstrated in a hackathon environment.
----
+
 ## 📦 1. Data Input Module
 Upload CSV file containing sales and inventory data
 Or use a sample dataset for quick demo
