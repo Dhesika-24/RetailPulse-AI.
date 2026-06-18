@@ -52,4 +52,14 @@ Key Statistics:
 * Stockouts alone contribute to nearly $1 trillion in lost retail sales every year.
 * Around 69% of customers switch to competitors when products are unavailable.
 
+## Evidence the Pain Is Real
+
+Retail inventory problems are a major challenge worldwide. Studies estimate that retailers lose approximately **$1.7 trillion annually** due to stockouts, overstocking, and inventory inaccuracies.
+
+Small businesses are especially affected, with **95% reporting inventory management challenges**. When products are unavailable, nearly **69% of customers switch to competitors**, leading to lost sales and reduced customer loyalty.
+
+In India alone, millions of small retailers and over **12 million kirana stores** face these challenges daily. Poor inventory visibility and delayed decision-making continue to impact revenue, profitability, and business growth.
+
+These statistics show that the problem is real, widespread, and financially significant, making it an important opportunity for innovation.
+
 
