@@ -111,5 +111,19 @@ As a result, many business owners still rely on experience and intuition when ma
 
 RetailPulse AI goes beyond traditional reporting by identifying problems, analyzing root causes, generating recommendations, and helping businesses take proactive action before losses become significant.
 
+## Market Opportunity
+
+The retail sector represents one of the largest business markets in the world. India alone has more than 12 million kirana stores and millions of other small and medium retailers.
+
+As businesses continue to adopt digital billing and inventory systems, the amount of available business data is growing rapidly. However, many retailers still lack affordable tools that can convert this data into meaningful business decisions.
+
+RetailPulse AI targets this gap by providing an accessible AI-powered decision support system for businesses that cannot afford dedicated analysts or consultants.
+
+## Conclusion
+
+Retail inventory and business decision-making challenges affect millions of businesses worldwide and result in significant financial losses every year. Existing solutions help businesses collect data, but few help them understand what actions to take.
+
+RetailPulse AI addresses this gap by acting as an intelligent business growth agent that transforms sales, inventory, and customer data into actionable recommendations, helping retailers reduce losses, improve profitability, and make better decisions.
+
 
 
