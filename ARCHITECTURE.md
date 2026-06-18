@@ -1,6 +1,6 @@
 # 🏗️ RetailPulse AI – Agent Architecture
 
-![RetailPulse AI Architecture](assets/RetailPulse AI Arch.png)
+![RetailPulse AI Architecture](assets/RetailPulse AI Acrh.png)
 
 ## 🎯 Overview
 
