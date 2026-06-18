@@ -81,4 +81,14 @@ This situation is not unique. Similar inventory and decision-making challenges a
 
 RetailPulse AI addresses this problem by continuously analyzing sales and inventory data, identifying the root causes behind business performance changes, and recommending actions before losses become significant.
 
+## Who Pays?
+
+The primary paying customers for RetailPulse AI are small and medium retail business owners, including grocery stores, electronics shops, pharmacies, clothing retailers, supermarkets, and independent store owners.
+
+These businesses are not simply paying for software; they are investing in a solution that helps prevent revenue loss. Poor inventory decisions, stock shortages, slow-moving products, and delayed business actions can cost a retailer significantly more than the cost of adopting a data-driven decision support system.
+
+For example, a store generating ₹10 lakhs in monthly revenue could lose lakhs of rupees annually due to inventory-related issues that often go unnoticed. By identifying these problems early and recommending corrective actions, RetailPulse AI helps businesses protect revenue, improve profitability, and make better operational decisions.
+
+For many retailers, the cost of not solving the problem is far greater than the cost of the solution.
+
 
