@@ -62,4 +62,23 @@ In India alone, millions of small retailers and over **12 million kirana stores*
 
 These statistics show that the problem is real, widespread, and financially significant, making it an important opportunity for innovation.
 
+## Real-World Scenario
+
+Imagine a local electronics retailer with an average monthly revenue of ₹10 lakhs.
+
+One of its best-selling products, a fast charger, goes out of stock for two weeks due to poor inventory planning. During this period, customers repeatedly visit the store but leave without purchasing because the product is unavailable. At the same time, the store has invested heavily in slow-moving products that occupy shelf space and tie up capital.
+
+By the end of the month:
+
+* Revenue drops by more than 20%.
+* Unsold inventory continues to accumulate.
+* Customer satisfaction decreases.
+* Some customers begin purchasing from competitors instead.
+
+The owner notices the decline but cannot identify the exact reason because the data is spread across bills, spreadsheets, and inventory records.
+
+This situation is not unique. Similar inventory and decision-making challenges affect millions of retailers worldwide every day. A single stockout of a high-demand product can result in lost sales, lost customers, and reduced profitability, while excess inventory increases storage costs and cash-flow pressure.
+
+RetailPulse AI addresses this problem by continuously analyzing sales and inventory data, identifying the root causes behind business performance changes, and recommending actions before losses become significant.
+
 
