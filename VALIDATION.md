@@ -119,6 +119,42 @@ As businesses continue to adopt digital billing and inventory systems, the amoun
 
 RetailPulse AI targets this gap by providing an accessible AI-powered decision support system for businesses that cannot afford dedicated analysts or consultants.
 
+## How Retail Businesses Lose Revenue
+
+```text
+                     Retail Business
+                            │
+                            ▼
+                  Sales & Inventory Data
+                            │
+                            ▼
+                   Data Not Properly Used
+                            │
+         ┌──────────────────┼──────────────────┐
+         ▼                  ▼                  ▼
+   Stockouts          Excess Inventory    Poor Decisions
+         │                  │                  │
+         ▼                  ▼                  ▼
+    Lost Sales       Capital Blocked    Revenue Decline
+         │                  │                  │
+         └──────────────────┼──────────────────┘
+                            ▼
+                  Reduced Business Growth
+                            │
+                            ▼
+                      RetailPulse AI
+                            │
+                            ▼
+        Detect → Analyze → Recommend → Forecast
+                            │
+                            ▼
+                    Smarter Business Decisions
+                            │
+                            ▼
+               Higher Revenue & Better Profit
+```
+
+
 ## Conclusion
 
 Retail inventory and business decision-making challenges affect millions of businesses worldwide and result in significant financial losses every year. Existing solutions help businesses collect data, but few help them understand what actions to take.
